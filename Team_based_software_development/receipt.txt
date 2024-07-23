@@ -1,0 +1,11 @@
+
+
+Items Ordered:
+1. Cheeseburger	$10.99
+
+Subtotal: $10.99
+Tax: $1.43
+Tip: $0.00
+Total: $12.42
+
+Thank you for your visit! Enjoy your meal!
